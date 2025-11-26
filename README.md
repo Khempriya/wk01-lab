@@ -1,3 +1,5 @@
+# สัปดาห์ที่ 1 - Tools & First Web Page
+## ไฟล์ที่สร้าง
 - **index.html** - HTML structure with semantic elements
 - **styles.css** - CSS styling with responsive design
 - **script.js** - JavaScript for interactivity
